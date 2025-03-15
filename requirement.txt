@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+nltk
+spacy
+re
+fuzzywuzzy
+numpy 
+pandas
